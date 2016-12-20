@@ -1,7 +1,7 @@
 /*Regression- Graded Assignment*/
 
 /*Permanent Library**/
-libname reg "D:\Users\Jig11117\Graded Assignments\Topic 10-Case Study Regression-Graded";
+libname reg "D:\Users\ms\Graded Assignments\Topic 10-Case Study Regression-Graded";
 run;
 
 /*Importing the dataset*/
